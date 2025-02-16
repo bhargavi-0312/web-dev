@@ -1,2 +1,4 @@
 # web-dev
-this is my first repos
+This is my first Git Repository.
+Auther- Akula Bhargavi
+
